@@ -20,6 +20,11 @@ class Stack {
 private:
 	Node* top; // POinter to the top nude of the stack
 
+public:
+	Stack() {
+		top = NULL; // Intialize the stack with a null top pointer
+	}
+
 };
 
 
