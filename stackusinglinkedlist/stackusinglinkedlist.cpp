@@ -66,9 +66,11 @@ public:
 	}
 };
 
+int main() {
+	Stack stack;
 
-int main()
-{
-    
+	int choice = 0;
+	int value;
+
 }
 
