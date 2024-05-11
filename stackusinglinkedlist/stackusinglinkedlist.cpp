@@ -15,6 +15,13 @@ public:
 	}
 };
 
+// Stack class
+class Stack {
+private:
+	Node* top; // POinter to the top nude of the stack
+
+};
+
 
 int main()
 {
